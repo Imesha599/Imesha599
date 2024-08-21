@@ -30,7 +30,6 @@
 <a href="https://linkedin.com/in/imesha basnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imesha basnayake" height="70" width="80" /></a>
 <a href="https://fb.com/imesha basnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imesha basnayake" height="70" width="80" /></a>
 <a href="https://instagram.com/_imeshaa.99_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_imeshaa.99_" height="70" width="80" /></a>
-<a href="https://www.youtube.com/c/imesha basnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="imesha basnayake" height="70" width="80" /></a>
 <a href="https://www.hackerrank.com/imesha99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imesha99" height="70" width="80" /></a>
   
 </p>
