@@ -1,4 +1,4 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 200px></p>
+<p align="center" ><img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200"></p>
 <h1 align="center">Hi 👋, I'm Imesha Basnayake</h1>
 <h3 align="center">Former Software Engineer Intern at Omobio | University of Moratuwa</h3>
 <table align="center">
