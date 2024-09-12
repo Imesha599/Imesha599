@@ -1,5 +1,5 @@
-<p align="center" ><img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200"></p>
-<h1 align="center">Hi 👋, I'm Imesha Basnayake</h1>
+<p align="center" ><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/54fb7eef-b1e8-41dc-be97-57e4180b3b24" width="600"></p>
+<h1 align="center">Hi 👋, I'm Imesha Basnayake</h1>z
 <h3 align="center">Former Software Engineer Intern at Omobio | University of Moratuwa</h3>
 <table align="center">
 <tr border="none">
