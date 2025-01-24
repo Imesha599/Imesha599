@@ -6,7 +6,7 @@
 <td width="50%" align="left">
 
 
-- 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa**
+- 🧑‍🎓 I’m an Graduate at **University of Moratuwa**
 
 - 📫 How to reach me **imesha.jul99@gmail.com**
   
